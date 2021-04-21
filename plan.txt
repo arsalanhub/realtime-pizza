@@ -6,7 +6,6 @@
    -Dev dependancies
       -nodemon
 3) Create Express server - Create a server.js file
-4) Create Home page using Html and Css
-   -include tailwind css
-5) Create Cart page
-   -order summary section
+4) Create home page using html & css 
+   --Include tailwind CSS
+5) Git setup
