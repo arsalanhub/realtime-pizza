@@ -9,3 +9,6 @@
 4) Create home page using html & css 
    --Include tailwind CSS
 5) Git setup
+6) Install Laravel Mix
+   - setup js and scss
+7) Install tailwind CSS   
