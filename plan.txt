@@ -12,3 +12,17 @@
 6) Install Laravel Mix
    - setup js and scss
 7) Install tailwind CSS   
+8) Create homepage using html & css
+9) create a cart page
+   - order summary section
+   - empty cart section
+10) move routes to routes files
+11) create dedicated controllers
+12) add to cart functionality 
+    - fetch all pizzas from db & show on home page
+    - create menu model and put dummy data
+       - connect to mongoDB
+       - use connect-mongo for session store
+          - dependencies
+             - mongoose, express-session, connect-mongo, dotenv   
+
